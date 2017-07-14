@@ -1,0 +1,15 @@
+html {
+  box-sizing: border-box;
+  background-color: #7f7f7f;
+}
+
+div, header, footer {
+    padding: 25px 0px;
+    text-align: center;
+}
+
+.main {
+    text-align: center;
+    /*width: 500px;*/
+    margin: -20px auto;
+}
